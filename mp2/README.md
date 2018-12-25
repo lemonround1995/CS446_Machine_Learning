@@ -6,7 +6,7 @@ Linear Model: Predicting Housing Prices
 This project aims to train a linear model to predict housing prices.
 
 ## Pipeline
-![](mp2/image/pipeline.png)
+![](image/pipeline.png)
 
 ## Process
 **Data processing.** </br>
@@ -36,4 +36,4 @@ optimal w using the training set then compute the loss on the validation set; We
 Run main.py
 
 ## Result Preview
-![](mp2/image/result.png)
+![](image/result.png)
